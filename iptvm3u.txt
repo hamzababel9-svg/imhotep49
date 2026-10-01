@@ -1,0 +1,1 @@
+ http://app.megsmart.xyz:80/get.php?username=UGZ44WNP&password=W81BM2LX&type=m3u_plus
